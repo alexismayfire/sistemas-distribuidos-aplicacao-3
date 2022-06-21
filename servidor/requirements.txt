@@ -1,0 +1,6 @@
+black==21.12b0
+Flask==2.0.2
+Flask-Cors==3.0.10
+Flask-SSE==1.0.0
+gunicorn==20.1.0
+Werkzeug==2.0.2
